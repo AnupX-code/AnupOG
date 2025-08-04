@@ -2,7 +2,7 @@
 
 A fast, mobile-optimized browser Snake Game built with HTML, CSS, and JavaScript — complete with sound effects, animated UI, power-ups, and difficulty levels!
 
-[▶️ Play Now](https://anupx-code.github.io/snake-game/)  
+[▶️ Play Now](https://anupx-code.github.io/AnupOG/)  
 _Made with ❤️ by Anup Raj Thapaliya_
 
 ---
