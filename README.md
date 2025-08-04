@@ -51,5 +51,5 @@ Hard Mode:
 
 ---
 
-## 📂 Repository Structure
+## THANK YOU!!✨
 
