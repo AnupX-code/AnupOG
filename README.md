@@ -74,7 +74,7 @@ Click the **ABOUT GAME** button next to your score to learn about the developer 
 ---
 
 ## 📂 Folder Structure
-📁 snake-game/
+📁 AnupOG/
 ├── index.html
 ├── mango.png
 ├── snake_body.png
